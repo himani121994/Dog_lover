@@ -31,12 +31,8 @@ html
 }
 .nav_item-left li a{
   text-decoration: none;
-  margin-left: 20px;
-  
 }
-.nav_item-left li a:nth-child(2){
-  margin-top: 20px;
-}
+
 .main-nav{
   position: sticky;
   z-index: 20; 
@@ -827,20 +823,21 @@ background-size: cover;
    .nav_item-left{
     display: flex;
    }
+   
    .nav_item-left li:nth-child(1){
-    margin-left: 30px;
-  }
-   .nav_item-left li:nth-child(2){
-    margin-left: 10px;
+    margin-left: 70px;
   }
   .nav_item-left li:nth-child(2){
-    margin-left: 10px;
+    margin-left: 20px;
   }
   .nav_item-left li:nth-child(3){
-    margin-left: 10px;
+    margin-left: 20px;
   }
   .nav_item-left li:nth-child(4){
-    margin-left: 10px;
+    margin-left: 20px;
+  }
+  .nav_item-left li:nth-child(5){
+    margin-left: 20px;
   }
   .nav_item-left li a{
     font-size: 20px;
