@@ -825,7 +825,7 @@ background-size: cover;
    }
    
    .nav_item-left li:nth-child(1){
-    margin-left: 70px;
+    margin-left: 20px;
   }
   .nav_item-left li:nth-child(2){
     margin-left: 20px;
@@ -841,6 +841,7 @@ background-size: cover;
   }
   .nav_item-left li a{
     font-size: 20px;
+    color: black;
   }
 
   .main-navDiv1{
