@@ -882,6 +882,7 @@ background-size: cover;
 }
 .media-hero-img{
   width: 50%;
+  margin-top: -80px;
 }
 .media-hero-img img{
  width: 350px;
@@ -991,8 +992,8 @@ background-size: cover;
   }
   .news-dog1 a img{
     margin-top: 10px;
-    width: 120px;
-    height: 120px;
+    width: 110px;
+    height: 110px;
   }
   .footer-navDiv1-1{
     color: white; 
